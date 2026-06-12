@@ -1,0 +1,173 @@
+Employee Number,Display Name,Job Title,Department,Location,Reportees Count
+PS005,Abdelkarim Abu-Odeh,Managing Director - KSA,Sales,Riyadh,0
+PB247,Achala Jain,Associate Manager,Administration,Indore,0
+PD008,Ajay Joshi,VP - Sales,Sales,Indore,0
+PU014,Angela Salud Chua,Lead - Design,Engineering,New York,0
+PD005,Anil Vijaywargiya,VP - Projects & Contracts,Projects,Indore,0
+PB010,Jayesh Kumar Thakkar,VP - Technology,Projects,Indore,0
+OM006,Ketan Gode,VP - Projects,Projects,Indore,5
+OM019,Krishnakumar Thangavelu,VP - Middle East,Sales,Dubai,0
+PD032,Muskan Salgia,VP - Residential Solutions,Sales,Indore,7
+PD012,Nitin Agrawal,VP - Technology,Projects,Indore,12
+PB003,Rachana Salgia,President,Management,Indore,3
+PB001,Rahul Salgia,CEO,Management,Indore,12
+PB002,Vivek Kamani,Director,Management,Indore,3
+PB048,Ravindrapal Singh Dhariwal,Associate Director,Client Success,Indore,0
+PB062,Vineet Dubey,Product Lead,Engineering > Product,Indore,1
+PB361,Bharat Jain,Program Manager,Engineering > Product,Indore,13
+PB411,Monet Dodhiya,Manager,Sales,Indore,0
+PB423,Edwin Sebastian,Sr. Business Analyst,Client Success,Indore,0
+PB444,Apan Mehta,Product Specialist,Client Success,Indore,0
+PB495,Shivani Patil,Executive Assistant,Administration,Indore,0
+PB450,Sadhasivam,Engineer - Client Services,Engineering > Client Services,Indore,0
+PB362,Ankit Singh,Sr. Quality Assurance Engineer,Engineering > Quality Assurance,Indore,0
+PB364,Nimisha Joshi,Sr. Quality Assurance Engineer,Engineering > Quality Assurance,Indore,0
+PB373,Swapnil Ghadge,Sr. Quality Assurance Engineer,Engineering > Quality Assurance,Indore,0
+PB397,Manoj Ahirwar,Sr. Quality Assurance Engineer,Engineering > Quality Assurance,Indore,0
+PB458,Sandip Chopkar,Quality Assurance Engineer,Engineering > Quality Assurance,Indore,0
+PB473,Karishma Wadhwani,Quality Assurance Engineer,Engineering > Quality Assurance,Indore,0
+PB489,Sourit Singh Rajawat,Quality Assurance Engineer,Engineering > Quality Assurance,Indore,0
+PB490,Om Swamy,Quality Assurance Engineer,Engineering > Quality Assurance,Indore,0
+PB503,Gunjan Patidar,Quality Assurance Engineer,Engineering > Quality Assurance,Indore,0
+PB513,Samarth Joshi,Sr. Quality Assurance Engineer,Engineering > Quality Assurance,Indore,0
+PB514,Arjun Patidar,Software Engineer,Engineering > Backend,Indore,0
+PB515,Anand Shanker,Sr. Quality Assurance Engineer,Engineering > Quality Assurance,Indore,0
+PB518,Himanshu Singh Rathore,Quality Assurance Engineer,Engineering > Quality Assurance,Indore,0
+PP009,Ashish Sharma,Sr. Product Specialist,Projects,Manila,0
+PU008,Driss Abouelhassan,Sr. Engineer - Projects & Services,Projects,New York,0
+PU013,Hamzah Alwazani,Engineer - Projects & Services,Projects,New York,0
+PS001,Gaurav Singh,Regional Lead - Engineering,Projects,Riyadh,0
+PS007,Sunil Kumar Patidar,Sr. Engineer - Projects,Projects,Riyadh,0
+PB098,Vishal Kale,Graphic Designer,Engineering > Design,Indore,0
+PB107,Lalit Mahajan,Sr. Manager - IT,IT & Network Support,Indore,2
+PB127,Heera Patil,Engineer - Projects,Projects,Indore,0
+PB128,Ram Gondkar,Engineer - Projects,Projects,Indore,0
+PB190,Ambar Jain,Manager - Project Delivery,Projects,Indore,10
+PD019,Prakash Kumar,Manager - Engineering & Operations,Projects,Singapore,0
+PD036	Anil Dhanotiya	Regional Lead - Engineering	Projects	Indore	0
+OS012	Tushar Yadav	Lead - Engineering & Sales	Projects	Indore	0
+OM007	Mahesh Valiya	Sr. Engineer - Projects & Operations	Projects	Dubai	0
+OM015	Aniket	Sr. Engineer - Projects	Projects	Dubai	0
+OS015	Project Department	Engineer - Projects	Projects	Indore	0
+OS016	IT Department	Engineer - IT	IT & Network Support	Indore	0
+PB031	Amit Vyas	Sr. Engineer - IT	IT & Network Support	Indore	0
+PB454	Amit Bairagi	Engineer - IT	IT & Network Support	Indore	0
+PB314	Diptesh Patidar	Sr. Engineer - Projects	Projects	Indore	0
+PB352	Prasoon Sharma	Sr. Engineer - Integrations	Projects	Indore	0
+PB414	Aditya Bhalekar	Engineer - Projects	Projects	Indore	0
+PB453	Yash Bhamre	Engineer - Projects	Projects	Indore	0
+PB455	Yash Mandlik	Engineer - IoT	Projects	Indore	0
+PB456	Ajay Singh Umath	Engineer - Projects	Projects	Indore	0
+PB459	Shshank Tuknait	Engineer - Projects	Projects	Indore	0
+PB486	Hitesh Agrawal	Engineer - Projects	Projects	Indore	0
+Intern119	Chhayank Patel	Engineer - IoT	Projects	Indore	0
+PB487	Palash Bajpai	Engineer - IoT	Projects	Indore	0
+PB067	Bhavesh Tiwari	Sr. Solutions Architect	Engineering > Product	Indore	16
+PB161	Gaurav Sand	Director	Engineering > Product	Indore	5
+PD042	Nipun Ladha	VP - Client Success	Client Success	Indore	6
+PB331	Rudransh Gupta	Manager - Client Success	Client Success	Indore	0
+PB393	Shruti Punjabi	Executive - Client Success	Client Success	Indore	0
+PB401	Yashasvi Kapoor	Executive - Client Success	Client Success	Indore	0
+PB443	Mahika Mehta	Sr. Business Analyst	Client Success	Indore	0
+PB460	Aakash Jayeshkumar Thakkar	Engineer - Customer Engagement	Client Success	Indore	0
+PD043	Mohit Mishra	Manager - Client Success	Client Success	Indore	0
+PB030	Nilesh Tiwari	Associate Director	Engineering > Quality Assurance	Indore	10
+PB070	Priyank Shah	Associate Director	Engineering > Product	Indore	16
+PB285	Pooja Malik	Sr. Executive - HR	HR	Indore	0
+PB409	Ravi Bharadwaj	Manager	Engineering > Client Services	Indore	5
+PB412	Aanchal Nigam	Sr. Executive - HR	HR	Indore	0
+PB091	Danish Mohammad	Product Lead	Engineering > Product	Indore	10
+PB100	Vinodsagar Prajapat	Associate Team Lead	Engineering > Mobility - IOS	Indore	0
+PB144	Manoj Verma	Sr. Product Developer	Engineering > Mobility - IOS	Indore	0
+PB164	Devendra Thakur	Team Lead	Engineering > Mobility - IOS	Indore	19
+PB178	Shubham Joshi	Technical Architect	Engineering > Mobility - IOS	Indore	0
+PB266	Manish Jaiswal	Sr. Product Developer	Engineering > Mobility - IOS	Indore	0
+PB291	Rupesh Saxena	Associate Team Lead	Engineering > Mobility - Android	Indore	1
+PB327	Satyam Atasniya	Sr. Product Developer	Engineering > Mobility - Android	Indore	0
+PB346	Krishna Pratap Singh Makwana	Sr. Product Developer	Engineering > Backend	Indore	7
+PB440	Kunal Jambwani	Graphic Designer	Engineering > Design	Indore	0
+PB446	Kunal Bafna	Product Developer	Engineering > Backend	Indore	7
+OS001	Suraj Kumar Soni	Outsourced	Engineering > Backend	Indore	0
+OS003	Sahil Kumar Sahoo	Outsourced	Engineering > Backend	Indore	0
+OS010	Sachin Muksha	Outsourced	Engineering > Backend	Indore	0
+PB506	Shweta Hiroliya	Sr. Product Developer	Engineering > Backend	Indore	5
+PB519	Bharat Prajapat	Associate Team Lead	Engineering > Backend	Indore	0
+PB430	Chahat Nagar	Product Developer	Engineering > Backend	Indore	0
+PB441	Ayushi Sharma	Product Developer	Engineering > Backend	Indore	0
+PB466	Arth Gupta	Software Engineer	Engineering > Backend	Indore	0
+PB467	Aryan Singh Thakur	Software Engineer	Engineering > Backend	Indore	0
+PB476	Priyanshu Pandit	Software Engineer	Engineering > Backend	Indore	0
+Intern129	Harsh Patel	Software Engineer Trainee	Engineering	Indore	0
+Intern138	Taha .	Software Engineer Trainee	Engineering	Indore	0
+PB520	Shivam Patel	Software Engineer	Engineering > Mobility - Android	Indore	0
+PB325	Himanshu Gupta	Sr. Product Developer	Engineering > Mobility - Android	Indore	0
+PB329	Deependra Singh	Sr. Product Developer	Engineering > Mobility - IOS	Indore	0
+PB351	Pankaj Shivhare	Product Developer	Engineering > Mobility - IOS	Indore	0
+PB356	Siddhant Dubey	Product Developer	Engineering > Mobility - IOS	Indore	0
+PB381	Arya Narayan Tiwari	Product Developer	Engineering > Mobility - IOS	Indore	0
+PB383	Harshal Patankar	Product Developer	Engineering > Mobility - IOS	Indore	0
+PB392	Prathviraj Singh Dodiya	Product Developer	Engineering > Mobility - Android	Indore	0
+PB431	Divyansh Nema	Product Developer	Engineering > Mobility - IOS	Indore	0
+PB472	Harshita Kukreja	Software Engineer	Engineering > Mobility - IOS	Indore	0
+PB477	Rishabh Yadav	Software Engineer	Engineering > Mobility - Android	Indore	0
+PB461	Kuldeep Solanki	Product Developer	Engineering > Mobility - IOS	Indore	0
+PB505	Mayank Runija	Software Engineer	Engineering > Mobility - Android	Indore	0
+Intern120	Akshat Mahajan	Software Engineer Trainee	Engineering	Indore	0
+Intern123	Arya Jain	Software Engineer Trainee	Engineering	Indore	0
+Intern124	Ayushi Choudhary	Software Engineer Trainee	Engineering	Indore	0
+Intern131	Mayur Israni	Software Engineer Trainee	Engineering	Indore	0
+Intern135	Raj Yadav	Software Engineer Trainee	Engineering	Indore	0
+PB511	Anchal Jaju	Software Engineer	Engineering	Indore	0
+PB516	Akshita Bhandari	Software Engineer	Engineering > Mobility - Android	Indore	0
+PB395	Vasudev Kanungo	Product Developer	Engineering > Backend	Indore	0
+PB462	Akshat Tamrakar	Software Engineer	Engineering > Backend	Indore	0
+PB469	Bhushan Shinde	Software Engineer	Engineering > Backend	Indore	0
+PB494	Vinit Rahangdale	Product Developer	Engineering > Backend	Indore	0
+Intern121	Anuj Namdev	Software Engineer Trainee	Engineering	Indore	0
+Intern126	Bhuvesh Yadav	Software Engineer Trainee	Engineering	Indore	0
+PB517	Shubh Porwal	Software Engineer	Engineering > Backend	Indore	0
+PB369	Pratiksagar Prajapat	Product Developer	Engineering > Backend	Indore	0
+PB429	Radheshyam Solanki	Product Developer	Engineering > Backend	Indore	0
+PB475	Prasun Gupta	Software Engineer	Engineering > Backend	Indore	0
+PB480	Soni Anjani Pradeep	Software Engineer	Engineering > Backend	Indore	0
+Intern130	Harshit Nagar	Software Engineer Trainee	Engineering	Indore	0
+PB106	Piyush Rai	Associate Team Lead	Engineering > Quality Assurance	Indore	0
+PB156	Ashvin Gargava	Sr. Quality Assurance Engineer	Engineering > Quality Assurance	Indore	0
+PB332	Priyal Saboo	Sr. Quality Assurance Engineer	Engineering > Quality Assurance	Indore	0
+PB335	Anand Krishna	Quality Assurance Engineer	Engineering > Quality Assurance	Indore	0
+PB343	Subhana Khan	Sr. Quality Assurance Engineer	Engineering > Quality Assurance	Indore	0
+PB420	Gaurav Chandra Tiwari	Quality Assurance Engineer	Engineering > Quality Assurance	Indore	0
+PB498	Sumit Hindon	Quality Assurance Engineer	Engineering > Quality Assurance	Indore	0
+PB499	Divyanshi Jaiswal	Quality Assurance Engineer	Engineering > Quality Assurance	Indore	0
+Intern128	Garv Mehra	Software Engineer Trainee	Engineering > Quality Assurance	Indore	0
+Intern133	Parag Jhala	Software Engineer Trainee	Engineering > Quality Assurance	Indore	0
+PB355	Shubham Panchal	Engineer - Data Applications	Engineering > Data Applications	Indore	0
+PB424	Nishant Verma	Devops Lead	Engineering > Devops	Indore	5
+PB428	Rohit Birla	Engineer - Data Applications	Engineering > Data Applications	Indore	0
+PB449	Kulveer Singh	Engineer - Infrastructure	Engineering > Infrastructure	Indore	0
+PB470	Dev Gupta	Engineer - Security	Engineering > Security	Indore	0
+PB481	Sumit Patel	Engineer - Infrastructure	Engineering > Infrastructure	Indore	0
+PB493	Rishi Bali	Engineer - Infrastructure	Engineering > Infrastructure	Indore	0
+PB497	Karan Sachdev	Engineer - Data Applications	Engineering > Data Applications	Indore	0
+PB500	Mamta Patidar	Engineer - Data Applications	Engineering > Data Applications	Indore	0
+PB501	Lucky Yadav	Sr. Engineer - Connected Systems	Engineering > Connected Systems	Indore	4
+PB504	Karan Nauhawar	Engineer - Infrastructure	Engineering > Infrastructure	Indore	0
+Intern122	Anurag Verma	Software Engineer Trainee	Engineering	Indore	0
+Intern127	Burhanuddin Telwala	Software Engineer Trainee	Engineering	Indore	0
+Intern136	Rishika Sharma	Software Engineer Trainee	Engineering	Indore	0
+Intern137	Sumit Tank	Software Engineer Trainee	Engineering	Indore	0
+PB509	Kumar Aditya Jain	Engineer - Security	Engineering > Security	Indore	0
+PB181	Shashank Katre	Sr. Engineer - Client Services	Engineering > Client Services	Indore	0
+PB399	Santosh Kumar Baghel	Sr. Engineer - Client Services	Engineering > Client Services	Indore	0
+PB421	Sarthak Jain	Engineer - Client Services	Engineering > Client Services	Indore	0
+PB422	Surendra Chouhan	Sr. Engineer - Client Services	Engineering > Client Services	Indore	0
+PB508	Kunal Chandelkar	Engineer - Client Services	Engineering > Client Services	Indore	0
+PB406	Shrayansh Yadav	Engineer - DevOps	Engineering > Devops	Indore	0
+PB435	Sanket Agrawal	Engineer - DevOps	Engineering > Devops	Indore	0
+PB464	Ankush Rawat	Engineer - DevOps	Engineering > Devops	Indore	0
+PB479	Shraddha Pilodiya	Engineer - DevOps	Engineering > Devops	Indore	0
+Intern139	Vaishnavi Upadhyay	Software Engineer Trainee	Engineering	Indore	0
+PB394	Tanishq Verma	Engineer – Connected Systems	Engineering > Connected Systems	Indore	0
+PB468	Avinash Verma	Engineer – Connected Systems	Engineering > Connected Systems	Indore	0
+Intern125	Bhavya Jain	Software Engineer Trainee	Engineering	Indore	0
+PB512	Shubham Soni	Engineer – Connected Systems	Engineering > Connected Systems	Indore	0
